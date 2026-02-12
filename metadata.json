@@ -1,0 +1,5 @@
+{
+  "name": "Character Refiner AI",
+  "description": "An AI tool to refine character images: remove backgrounds, complete missing limbs, scale, and remove watermarks.",
+  "requestFramePermissions": []
+}
